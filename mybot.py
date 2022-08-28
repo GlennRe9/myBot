@@ -4,7 +4,7 @@ import time
 from bs4 import BeautifulSoup
 import smtplib
 from playsound import playsound
-#from selenium import webdriver
+#From selenium import webdriver
 
 
 
